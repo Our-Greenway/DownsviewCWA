@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"name": "OtherPond",
+"features": [
+{ "type": "Feature", "properties": { "id": "Lower Pond", "heroImage": "/images/LowerPond/heroImage.jpg", "description": "This is the newest stormwater management system, and is much smaller and drains to the Lake. You can spot all three bodies of water from the top of the Mini Mound! Bodies of Water Note: In these bodies of water you’re not allowed to fish, swim, skate or sled. Dogs are not allowed in the water as well", "neighbours": [ "DogsviewPark_to_OtherPond", "NorthHill_to_OtherPond", "OtherPond_to_UrbanFarm" ] }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -79.478087224252278, 43.740878686676012 ], [ -79.478571123723981, 43.740318697597928 ], [ -79.478298413843163, 43.739563450317419 ], [ -79.477928690787749, 43.739357435480571 ], [ -79.477393420095595, 43.739103595770885 ], [ -79.476571291393114, 43.739517378149685 ], [ -79.476301506731886, 43.740086656389849 ], [ -79.47689246360946, 43.74055383177145 ], [ -79.478087224252278, 43.740878686676012 ] ] ] } }
+]
+}
